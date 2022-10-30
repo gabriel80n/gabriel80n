@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 - 🔭 I’m currently working on a junior company and studying computer science on UFU
 - 🌱 I’m currently learning Nodejs, javascript
