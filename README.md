@@ -22,33 +22,6 @@ Currently a Full Stack Developer at **Callink (formerly Algar Tech)**. B.Sc. in 
 - **End-to-end delivery:** backend services, Vue and React interfaces, AWS infrastructure and CI/CD.
 - **Technical leadership and client communication:** experience mentoring developers and leading multidisciplinary projects as Project Director at ASCII Junior Enterprise.
 
-## Selected work
-
-### DC/TMD diagnostic platform
-A healthcare project at the Federal University of Uberlândia (UFU), combining an Android application with a backend to support temporomandibular disorder diagnosis.
-
-**NestJS · Kotlin · AWS Lambda · RDS · CI/CD**
-
-[Backend](https://github.com/gabriel80n/Nestjs-DC-DTM) · [Android application](https://github.com/gabriel80n/Android-DC-DTM)
-
-### Portfolio applications
-A collection of projects built to demonstrate business rules and engineering decisions.
-
-- **IAM:** identity and access management, authentication and permission-based access.
-- **Room reservations:** booking workflows and rules for managing room availability.
-- **Portfolio website:** professional presentation and interactive project details.
-
-The IAM and room-reservation source repositories are private. The portfolio frontend is public.
-
-[Portfolio source](https://github.com/gabriel80n/portfolio-landing-page)
-
-### Task Manager
-A Trello-inspired full stack project with authentication, project and task management.
-
-**Node.js · React · SQLite**
-
-[Source](https://github.com/gabriel80n/Task-list)
-
 ## Tools I work with
 
 | Area | Technologies |
