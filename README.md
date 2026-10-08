@@ -1,75 +1,66 @@
-## Hey! 👋 I'm Gabriel Nicholas
+<img align="right" src="./assets/gabriel-nicholas.webp" width="150" alt="Portrait of Gabriel Nicholas" />
 
-💻 **Full Stack Developer** with a strong focus on **Back-end**, passionate about software architecture, well-designed APIs, and scalable systems.  
-🎓 Computer Science undergraduate at **Federal University of Uberlândia (UFU)**  
-🚀 Currently working as a **Full Stack Developer at Algar Tech**
+# Gabriel Nicholas
 
----
+### Backend / Full Stack Developer
 
-### 🧠 About me
+**4+ years turning client challenges into working software.**
 
-- 🔭 I work on **end-to-end solutions**, building **APIs, bots, IVRs (URAs)**, and efficient web interfaces  
-- 🏗️ Hands-on experience with **DDD and Hexagonal Architecture**
-- ☁️ Strong background with **AWS** and **CI/CD pipelines**
-- 👥 Former **Project Director** at a Junior Enterprise, leading teams and making technical decisions  
-- 📚 Always learning and improving as a developer and professional
+I build APIs, web applications and cloud integrations with TypeScript, Node.js and AWS. My work connects technical decisions with client needs: clear requirements, maintainable systems and practical delivery.
 
-> Fun fact: I don't like coffee ☕🚫 (yes, I'm still a developer)
+Currently a Full Stack Developer at **Callink (formerly Algar Tech)**. B.Sc. in Computer Science from **UFU (2025)**.
 
----
+**Open to opportunities and collaborations. Let's work together.**
 
-### 🛠️ Tech Stack
+[LinkedIn](https://www.linkedin.com/in/gabriel80n) · [Email](mailto:gabrielnpmoraes@hotmail.com) · [English résumé](./documents/gabriel-nicholas-resume-en.pdf)
 
-**Back-end**
-- Node.js | NestJS | Express
-- REST APIs | Authentication | Authorization
-- Microservices | DDD | Clean Architecture
+<br clear="right" />
 
-**Front-end**
-- React | Next.js
-- Vue.js
-- HTML | CSS | JavaScript | TypeScript
+## What I bring to a team
 
-**Databases**
-- SQL | NoSQL
-- DynamoDB | RDS
+- **Backend and integration development:** REST APIs, authentication, authorization, asynchronous processing and AI integrations.
+- **End-to-end delivery:** backend services, Vue and React interfaces, AWS infrastructure and CI/CD.
+- **Technical leadership and client communication:** experience mentoring developers and leading multidisciplinary projects as Project Director at ASCII Junior Enterprise.
 
-**Cloud & DevOps**
-- AWS (Lambda, EC2, RDS, DynamoDB, API Gateway, SQS)
-- Automated CI/CD pipelines
-- Scalable and secure infrastructure
+## Selected work
 
----
+### DC/TMD diagnostic platform
+A healthcare project at the Federal University of Uberlândia (UFU), combining an Android application with a backend to support temporomandibular disorder diagnosis.
 
-### 📦 Featured Projects
+**NestJS · Kotlin · AWS Lambda · RDS · CI/CD**
 
-🔹 **DC/TMD Diagnostic App**  
-Mobile application for diagnosing TMD patients, used by a public clinic at UFU  
-- Android (Kotlin)
-- Backend built with **NestJS**
-- AWS (Lambda, RDS)
-- Automated CI/CD pipeline
+[Backend](https://github.com/gabriel80n/Nestjs-DC-DTM) · [Android application](https://github.com/gabriel80n/Android-DC-DTM)
 
-🔹 **Gateway + IAM Microservices**  
-Microservices built using **DDD and Hexagonal Architecture**  
-- User, role, and organization management
-- Permission-based access control
-- AWS infrastructure with DynamoDB
-- Focus on security and scalability
+### Portfolio applications
+A collection of projects built to demonstrate business rules and engineering decisions.
 
-🔹 **Task Manager (Trello-like)**  
-Personal fullstack project  
-- Node.js + React
-- Authentication system
-- Project and task management
+- **IAM:** identity and access management, authentication and permission-based access.
+- **Room reservations:** booking workflows and rules for managing room availability.
+- **Portfolio website:** professional presentation and interactive project details.
 
----
+The IAM and room-reservation source repositories are private. The portfolio frontend is public.
 
-### 📫 Get in touch
+[Portfolio source](https://github.com/gabriel80n/portfolio-landing-page)
 
-- 💼 LinkedIn: [linkedin.com/in/gabriel80n](https://www.linkedin.com/in/gabriel80n)
-- 📧 Email: **gabrielnpmoraes@hotmail.com**
+### Task Manager
+A Trello-inspired full stack project with authentication, project and task management.
 
----
+**Node.js · React · SQLite**
 
-⭐ If you like any project, feel free to leave a star!
+[Source](https://github.com/gabriel80n/Task-list)
+
+## Tools I work with
+
+| Area | Technologies |
+| --- | --- |
+| Backend | TypeScript, Node.js, NestJS, Express, REST APIs |
+| Frontend | Vue.js, React, Next.js |
+| Data and processing | PostgreSQL, MySQL, SQLite, DynamoDB, Redis, BullMQ |
+| Cloud and delivery | AWS Lambda, API Gateway, EC2, RDS, SQS, Docker, CI/CD |
+| Architecture and integrations | DDD, Hexagonal Architecture, authentication, authorization, GPT and Claude |
+
+## Let's work together
+
+Based in **Uberlândia, Brazil**. Portuguese native speaker; advanced English.
+
+If you need someone to understand a problem, discuss the trade-offs and help deliver the solution, reach out on [LinkedIn](https://www.linkedin.com/in/gabriel80n) or [email](mailto:gabrielnpmoraes@hotmail.com).
