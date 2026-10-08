@@ -12,7 +12,7 @@ Currently a Full Stack Developer at **Callink (formerly Algar Tech)**. B.Sc. in 
 
 **Open to opportunities and collaborations. Let's work together.**
 
-[LinkedIn](https://www.linkedin.com/in/gabriel80n) · [Email](mailto:gabrielnpmoraes@hotmail.com) · [English résumé](./documents/gabriel-nicholas-resume-en.pdf)
+[LinkedIn](https://www.linkedin.com/in/gabriel80n) · [Email](mailto:gabrielnpmoraes@hotmail.com) · [English resume](./documents/gabriel-nicholas-resume-en.pdf)
 
 <br clear="right" />
 
