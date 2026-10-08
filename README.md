@@ -1,4 +1,4 @@
-<img align="right" src="./assets/gabriel-nicholas.webp" width="150" alt="Portrait of Gabriel Nicholas" />
+
 
 # Gabriel Nicholas
 
